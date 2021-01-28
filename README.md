@@ -1,24 +1,19 @@
-# wheather-widget
+# weather-widget
 
 ## Project setup
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Compiles and minifies for production widget
 
-### Lints and fixes files
 ```
-yarn lint
+yarn build-widget
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
